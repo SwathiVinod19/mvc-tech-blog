@@ -8,7 +8,7 @@ This is a blog site where developers can publish their posts and comment on othe
 
 ## Table of Contents
 ---
-* [License](#license)
+* [License](#License)
 * [Installation](#installation)
 * [Packages](#packages)
 * [Description](#description)
@@ -16,6 +16,7 @@ This is a blog site where developers can publish their posts and comment on othe
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+  
 
 ##License
 [MIT License](https://opensource.org/licenses/MIT)
