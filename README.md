@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Handlebars Badge](https://img.shields.io/badge/Handlebars-F0772B?logo=handlebars&logoColor=fff&style=flat)](https://handlebarsjs.com/)
+[![MVC Badge](https://img.shields.io/badge/MVC-FF5733?style=flat)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.ecma-international.org/ecma-262/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)](https://www.npmjs.com/package/mysql2)
