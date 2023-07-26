@@ -17,6 +17,7 @@ This is a blog site where developers can publish their posts and comment on othe
 * [Tests](#tests)
 * [Questions](#questions)
   
+---
 
 ##License
 [MIT License](https://opensource.org/licenses/MIT)
